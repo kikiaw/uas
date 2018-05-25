@@ -1,0 +1,17 @@
+{
+    "name": "kikiaw/Project-uts", 
+    "type": "project",
+    "authors": [
+        {
+            "name": "pungky apri wibowo",
+            "email": "pungkiapriw@gmail.com",
+            "role": "programmer"
+        }, {
+            "name": "kiki"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "version": "0.5"
+}
